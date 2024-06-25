@@ -3,8 +3,12 @@ Official repo for VividPose: Advancing Stable Video Diffusion for Realistic Huma
 
 <a href='https://Kelu007.github.io/vivid-pose/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/pdf/2405.18156'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
-## Citation	
+![Teaser Image](docs/teaser.png "Teaser")
 
+## Updates
+We are working diligently on the code release, please stay tuned :)
+
+## Citation	
 ```
 @article{wang2024vividpose,
   title={VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation}, 
